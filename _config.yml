@@ -1,24 +1,21 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
-
+title: Fitsum S Beyene
+url: "https://fii78.github.io"
+baseurl: "/portfolio"
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
-
-tracking_id: #
-
+#ins_logo: "./psu-logo.png"  # Uncomment and add logo file if you want Penn State logo
+tracking_id: #  # Add Google Analytics ID here if you want tracking
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
-
+footer_url: "https://github.com/FII78"
+footer_text: "© 2025 Fitsum S Beyene"
 sass:
-    style: compressed
-    sass_dir: _sass
-
+  style: compressed
+  sass_dir: _sass
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+  - name: "About"
+    link: "/portfolio/"
+  - name: "Research"
+    link: "research"
+  - name: "CV"
+    link: "cv.pdf"
+  - name: "Contact"
+    link: "contact"
